@@ -62,11 +62,25 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/core
+
 @angular/material/dialog
+
+@angular/material/form-field
+
+@angular/material/paginator
+
+@angular/material/select
 
 @angular/material/sidenav
 
+@angular/material/sort
+
+@angular/material/table
+
 @angular/material/tabs
+
+@angular/material/tooltip
 
 @angular/platform-browser
 MIT
