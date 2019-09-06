@@ -74,6 +74,8 @@ THE SOFTWARE.
 
 @angular/material/sidenav
 
+@angular/material/slider
+
 @angular/material/sort
 
 @angular/material/table
